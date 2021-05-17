@@ -1,0 +1,25 @@
+<div>
+  <form [formGroup]="questionForm" (ngSubmit)="openConfirmationDialog()" class="row justify-content-lg-center text-center">
+    <fieldset class="col-lg-8">
+      <h1>{{question.summary}}</h1>
+      <span class="badge rounded-pill badge-danger even-larger-badge px-3 py-2">Timer: {{timeInSeconds}}</span>
+
+      <div class="row">
+        <div class="col-md-4 offset-md-4">
+          <div class="form-group">
+            <div *ngFor="let answer of question.answers | keyvalue">
+              <div class="form-check" style="text-align: left">
+                <label class="form-check-label">
+                  <input type="radio" formControlName="answer" class="form-check-input" value="{{answer.key}}" checked="">
+                  {{answer.key}}.{{answer.value}}
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Submit and Go to the next</button>
+    </fieldset>
+  </form>
+</div>

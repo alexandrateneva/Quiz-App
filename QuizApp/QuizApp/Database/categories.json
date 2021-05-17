@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Sport",
+    "Description": "Sport Category Description",
+    "ImageUrl": "https://www.borbabg.com/wp-content/uploads/2020/11/5e64d06674c6a.jpeg"
+  },
+  {
+    "Id": 2,
+    "Name": "Art",
+    "Description": "Art Category Description",
+    "ImageUrl": "http://gergana.net/wp-content/uploads/2013/07/art.jpg"
+  },
+  {
+    "Id": 3,
+    "Name": "History",
+    "Description": "History Category Description",
+    "ImageUrl": "https://s7d2.scene7.com/is/image/Kennametal/History?$MobileBanner$&"
+  },
+  {
+    "Id": 4,
+    "Name": "Technology",
+    "Description": "Technology Category Description",
+    "ImageUrl": "https://i.hurimg.com/i/hdn/75/0x0/5da425cc0f25441cf4279f1d.jpg"
+  },
+  {
+    "Id": 5,
+    "Name": "Animals",
+    "Description": "Animals Category Description",
+    "ImageUrl": "http://s1.thingpic.com/images/HW/D7FfF2fbhL8fQzNyJSkvQh9r.jpeg"
+  }
+]

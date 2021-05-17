@@ -1,0 +1,662 @@
+[
+  {
+    "Id": 1,
+    "CategoryId": 1,
+    "Summary": "With which game does Davis Cup is associated?",
+    "Answers": {
+      "A": "Hockey",
+      "B": "Table Tennis",
+      "C": "Lawn Tennis",
+      "D": "Polo"
+    },
+    "RightAnswer": "C"
+  },
+  {
+    "Id": 2,
+    "CategoryId": 1,
+    "Summary": "Term Chinaman is related to which sports?",
+    "Answers": {
+      "A": "Football",
+      "B": "Hockey",
+      "C": "Golf",
+      "D": "Cricket"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 3,
+    "CategoryId": 1,
+    "Summary": "The term 'Gambit' is associated with?",
+    "Answers": {
+      "A": "Chess",
+      "B": "Tennis",
+      "C": "Basketball",
+      "D": "Baseball"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 4,
+    "CategoryId": 1,
+    "Summary": "The Olympics are held every how many years?",
+    "Answers": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "5"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 5,
+    "CategoryId": 1,
+    "Summary": "In American Football, a touchdown is worth how many points?",
+    "Answers": {
+      "A": "7",
+      "B": "9",
+      "C": "3",
+      "D": "6"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 6,
+    "CategoryId": 1,
+    "Summary": "What is Canada’s national sport?",
+    "Answers": {
+      "A": "Basketball",
+      "B": "Lacrosse",
+      "C": "Tennis",
+      "D": "Football"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 7,
+    "CategoryId": 1,
+    "Summary": "During the first ever modern Olympics, what were the first placers awarded with?",
+    "Answers": {
+      "A": "Silver medals",
+      "B": "Gold medals",
+      "C": "Bronze medals",
+      "D": "Nothing"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 8,
+    "CategoryId": 1,
+    "Summary": "How many medals did China win at the Beijing Olympics in 2008?",
+    "Answers": {
+      "A": "56",
+      "B": "89",
+      "C": "100",
+      "D": "37"
+    },
+    "RightAnswer": "C"
+  },
+  {
+    "Id": 9,
+    "CategoryId": 1,
+    "Summary": "How many minutes was the longest recorded point in the history of tennis?",
+    "Answers": {
+      "A": "29",
+      "B": "15",
+      "C": "41",
+      "D": "24"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 10,
+    "CategoryId": 1,
+    "Summary": "What African country was the first ever to qualify for a World Cup?",
+    "Answers": {
+      "A": "Nigeria",
+      "B": "Egypt",
+      "C": "Ghana",
+      "D": "South Africa"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 11,
+    "CategoryId": 1,
+    "Summary": "In professional basketball, how high is the basketball hoop from the ground?",
+    "Answers": {
+      "A": "305cm",
+      "B": "301cm",
+      "C": "300cm",
+      "D": "309cm"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 12,
+    "CategoryId": 2,
+    "Summary": "Which of these is a paint made from pigments and plastic?",
+    "Answers": {
+      "A": "Acrylic",
+      "B": "Gesso",
+      "C": "Acetone",
+      "D": "Tempera"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 13,
+    "CategoryId": 2,
+    "Summary": "Early photographers made their images on which of these materials?",
+    "Answers": {
+      "A": "Glass",
+      "B": "Stone",
+      "C": "Paper",
+      "D": "Plastic"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 14,
+    "CategoryId": 2,
+    "Summary": "To which artistic movement does Paul Gauguin’s The Yellow Christ belong?",
+    "Answers": {
+      "A": "Impressionism",
+      "B": "Bauhaus",
+      "C": "Cloisonnism",
+      "D": "Fauvism"
+    },
+    "RightAnswer": "C"
+  },
+  {
+    "Id": 15,
+    "CategoryId": 2,
+    "Summary": "What does the Venus of Brassempouy represent?",
+    "Answers": {
+      "A": "A woman’s head",
+      "B": "An angel",
+      "C": "A human figure",
+      "D": "An old man"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 16,
+    "CategoryId": 2,
+    "Summary": "Which architect founded the Bauhaus school of design?",
+    "Answers": {
+      "A": "Walter Gropius",
+      "B": "Frank Gehry",
+      "C": "I.M. Pei",
+      "D": "Frank Lloyd Wright"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 17,
+    "CategoryId": 2,
+    "Summary": "Who designed the Vietnam Veterans Memorial?",
+    "Answers": {
+      "A": "Henri Matisse",
+      "B": "Maya Lin",
+      "C": "Frank Gehry",
+      "D": "Frank Lloyd Wright"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 18,
+    "CategoryId": 2,
+    "Summary": "What did I.M. Pei design outside the Louvre, in Paris?",
+    "Answers": {
+      "A": "Sarcophagus",
+      "B": "Obelisk",
+      "C": "Ziggurat",
+      "D": "Pyramid"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 19,
+    "CategoryId": 2,
+    "Summary": "What animal often symbolizes peace in art?",
+    "Answers": {
+      "A": "Dog",
+      "B": "Duck",
+      "C": "Deer",
+      "D": "Dove"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 20,
+    "CategoryId": 2,
+    "Summary": "What was the subject of the earliest known paintings?",
+    "Answers": {
+      "A": "Animals",
+      "B": "Landscapes",
+      "C": "Sports",
+      "D": "Flowers"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 21,
+    "CategoryId": 2,
+    "Summary": "What Dutch artist is famous for his strange geometrical puzzles?",
+    "Answers": {
+      "A": "M.C. Escher",
+      "B": "Pieter Breughel",
+      "C": "Vincent Van Gogh",
+      "D": "Jan Van Eyk"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 22,
+    "CategoryId": 2,
+    "Summary": "Who was the first famous artist of the Italian Renaissance?",
+    "Answers": {
+      "A": "Michelangelo",
+      "B": "Mantegna",
+      "C": "Masaccio",
+      "D": "Leonardo da Vinci"
+    },
+    "RightAnswer": "C"
+  },
+  {
+    "Id": 23,
+    "CategoryId": 3,
+    "Summary": "Whose death sparked World War I?",
+    "Answers": {
+      "A": "Kaiser Wilhelm",
+      "B": "Archbishop Ussher",
+      "C": "Queen Victoria",
+      "D": "Archduke Franz Ferdinand"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 24,
+    "CategoryId": 3,
+    "Summary": "How many republics made up the former Soviet Union?",
+    "Answers": {
+      "A": "15",
+      "B": "12",
+      "C": "20",
+      "D": "10"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 25,
+    "CategoryId": 3,
+    "Summary": "When was the first Nobel Prize in economics awarded?",
+    "Answers": {
+      "A": "1969",
+      "B": "1949",
+      "C": "1909",
+      "D": "1929"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 26,
+    "CategoryId": 3,
+    "Summary": "Of what country was Simón Bolívar president?",
+    "Answers": {
+      "A": "Bolivia",
+      "B": "Peru",
+      "C": "Argentina",
+      "D": "Chile"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 27,
+    "CategoryId": 3,
+    "Summary": "Who was Karl Marx’s associate and fellow political theoretician?",
+    "Answers": {
+      "A": "Friedrich Nietzsche",
+      "B": "Friedrich II",
+      "C": "Friedrich Engels",
+      "D": "Friedrich Reich"
+    },
+    "RightAnswer": "C"
+  },
+  {
+    "Id": 28,
+    "CategoryId": 3,
+    "Summary": "Where were the Aegean Bronze Age civilizations located?",
+    "Answers": {
+      "A": "Algeria",
+      "B": "India",
+      "C": "Greece",
+      "D": "Spain"
+    },
+    "RightAnswer": "C"
+  },
+  {
+    "Id": 29,
+    "CategoryId": 3,
+    "Summary": "Which of these battles did not involve Roman soldiers?",
+    "Answers": {
+      "A": "Arretium",
+      "B": "Chalons",
+      "C": "Cannae",
+      "D": "Thermopylae"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 30,
+    "CategoryId": 3,
+    "Summary": "Who was the first U.S. president to appear on television?",
+    "Answers": {
+      "A": "Richard Nixon",
+      "B": "Ronald Reagan",
+      "C": "Abraham Lincoln",
+      "D": "Franklin Delano Roosevelt"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 31,
+    "CategoryId": 3,
+    "Summary": "What automobile was named after Henry Ford’s only son?",
+    "Answers": {
+      "A": "Buick",
+      "B": "Oldsmobile",
+      "C": "Isuzu",
+      "D": "Edsel"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 32,
+    "CategoryId": 3,
+    "Summary": "How many kings of England have been named Henry?",
+    "Answers": {
+      "A": "10",
+      "B": "8",
+      "C": "11",
+      "D": "9"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 33,
+    "CategoryId": 3,
+    "Summary": "In Egyptian mythology, who was the wife of Osiris?",
+    "Answers": {
+      "A": "Oslo",
+      "B": "Isis",
+      "C": "Ozzy",
+      "D": "Iris"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 34,
+    "CategoryId": 4,
+    "Summary": "How many computer languages are in use?",
+    "Answers": {
+      "A": "2000",
+      "B": "5000",
+      "C": "50",
+      "D": "20"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 35,
+    "CategoryId": 4,
+    "Summary": "Which of these is not an early computer?",
+    "Answers": {
+      "A": "ENIAC",
+      "B": "UNIVAC",
+      "C": "NASA",
+      "D": "SAGE"
+    },
+    "RightAnswer": "C"
+  },
+  {
+    "Id": 36,
+    "CategoryId": 4,
+    "Summary": "Who founded Apple Computer?",
+    "Answers": {
+      "A": "Stephen Fry",
+      "B": "Bill Gates",
+      "C": "Steve Jobs",
+      "D": "Stephen Hawking"
+    },
+    "RightAnswer": "C"
+  },
+  {
+    "Id": 37,
+    "CategoryId": 4,
+    "Summary": "Which of the following is not one of the early “protocols,” or ways to use the Internet?",
+    "Answers": {
+      "A": "Blogging",
+      "B": "Telnet",
+      "C": "Gopher",
+      "D": "FTP"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 38,
+    "CategoryId": 4,
+    "Summary": "What does the Internet prefix WWW stand for?",
+    "Answers": {
+      "A": "Wide Width Wickets",
+      "B": "World Wide Web",
+      "C": "Worldwide Weather",
+      "D": "Western Washington World"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 39,
+    "CategoryId": 4,
+    "Summary": "When did the compact disc first appear on the market?",
+    "Answers": {
+      "A": "1982",
+      "B": "1992",
+      "C": "1955",
+      "D": "1989"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 40,
+    "CategoryId": 4,
+    "Summary": "To which of these devices is the cellular telephone most closely related?",
+    "Answers": {
+      "A": "Telegraph",
+      "B": "Radio",
+      "C": "Light bulb",
+      "D": "Telescope"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 41,
+    "CategoryId": 4,
+    "Summary": "Which of these is a file format for digital images?",
+    "Answers": {
+      "A": "CIA",
+      "B": "JPG",
+      "C": "ICBM",
+      "D": "IBM"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 42,
+    "CategoryId": 4,
+    "Summary": "What does fiber optic cable resemble, in terms of size?",
+    "Answers": {
+      "A": "Pipeline",
+      "B": "Bamboo",
+      "C": "Telephone wire",
+      "D": "Human hair"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 43,
+    "CategoryId": 4,
+    "Summary": "When was the DVD introduced?",
+    "Answers": {
+      "A": "1970",
+      "B": "1990",
+      "C": "2000",
+      "D": "1995"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 44,
+    "CategoryId": 4,
+    "Summary": "Who invented flexible photographic film?",
+    "Answers": {
+      "A": "Leonardo da Vinci",
+      "B": "Linda Eastman",
+      "C": "Louis Daguerre",
+      "D": "George Eastman"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 45,
+    "CategoryId": 5,
+    "Summary": "What type of animal is a seahorse?",
+    "Answers": {
+      "A": "Crustacean",
+      "B": "Arachnid",
+      "C": "Fish",
+      "D": "Shell"
+    },
+    "RightAnswer": "C"
+  },
+  {
+    "Id": 46,
+    "CategoryId": 5,
+    "Summary": "Which of the following dog breeds is the smallest?",
+    "Answers": {
+      "A": "Dachshund",
+      "B": "Poodle",
+      "C": "Pomeranian",
+      "D": "Chihuahua"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 47,
+    "CategoryId": 5,
+    "Summary": "What color are zebras?",
+    "Answers": {
+      "A": "White with black stripes",
+      "B": "Black with white stripes",
+      "C": "Both of the above",
+      "D": "None of the above"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 48,
+    "CategoryId": 5,
+    "Summary": "What existing bird has the largest wingspan?",
+    "Answers": {
+      "A": "Stork",
+      "B": "Swan",
+      "C": "Condor",
+      "D": "Albatross"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 49,
+    "CategoryId": 5,
+    "Summary": "What is the biggest animal that has ever lived?",
+    "Answers": {
+      "A": "Blue whale",
+      "B": "African elephant",
+      "C": "Apatosaurus (aka Brontosaurus)",
+      "D": "Spinosaurus"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 50,
+    "CategoryId": 5,
+    "Summary": "Which of these animals lives the longest?",
+    "Answers": {
+      "A": "Ocean quahog (clam)",
+      "B": "Red sea urchin",
+      "C": "Galapagos tortoise",
+      "D": "Rougheye rockfish"
+    },
+    "RightAnswer": "A"
+  },
+  {
+    "Id": 51,
+    "CategoryId": 5,
+    "Summary": "Which of the following animals sleeps standing up?",
+    "Answers": {
+      "A": "Gorillas",
+      "B": "Flamingos",
+      "C": "Hedgehogs",
+      "D": "Ravens"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 52,
+    "CategoryId": 5,
+    "Summary": "What is the fastest water animal?",
+    "Answers": {
+      "A": "Porpoise",
+      "B": "Sailfish",
+      "C": "Flying fish",
+      "D": "Tuna"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 53,
+    "CategoryId": 5,
+    "Summary": "How many insects can a bat gobble in one night?",
+    "Answers": {
+      "A": "200",
+      "B": "500",
+      "C": "1000",
+      "D": "3000"
+    },
+    "RightAnswer": "D"
+  },
+  {
+    "Id": 54,
+    "CategoryId": 5,
+    "Summary": "What body part can butterflies use to taste their food?",
+    "Answers": {
+      "A": "Their eyes",
+      "B": "Their feet",
+      "C": "Their wings",
+      "D": "Their antennae"
+    },
+    "RightAnswer": "B"
+  },
+  {
+    "Id": 55,
+    "CategoryId": 5,
+    "Summary": "How long was the longest recorded flight of a chicken?",
+    "Answers": {
+      "A": "13 seconds",
+      "B": "30 seconds",
+      "C": "2 minutes",
+      "D": "5 minutes"
+    },
+    "RightAnswer": "A"
+  }
+]

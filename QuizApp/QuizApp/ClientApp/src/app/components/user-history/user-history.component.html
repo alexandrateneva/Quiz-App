@@ -1,0 +1,28 @@
+<div class="container mt-3">
+  <div class="row justify-content-lg-center text-center space-top">
+    <div class="col-lg-12">
+      <h1>Your Result</h1>
+      <hr class="col-lg-8" color="black">
+
+      <div *ngIf="results && results.length === 0">
+        <i>There are no results yet :(</i>
+      </div>
+
+      <div *ngIf="results && results.length > 0">
+        <div class="row justify-content-lg-center text-center space-top">
+          <div class="col-lg-8">
+            <h2 class="text-center">Summary of all your answers</h2>
+            <app-result-chart [rightAnswers]="allRightAnswersCount" [wrongAnswers]="allWrongAnswersCount"></app-result-chart>
+          </div>
+        </div>
+
+        <div *ngFor="let result of results" class="row justify-content-lg-center text-center space-top">
+          <div class="col-lg-8">
+            <h2 class="text-center">Your result from {{result.categoryName}} category</h2>
+            <app-result-chart [rightAnswers]="result.rightAnswersCount" [wrongAnswers]="result.wrongAnswersCount"></app-result-chart>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,11 @@
+<div class="container mt-3">
+  <div *ngIf="questions?.length > 0" class="row justify-content-lg-center text-center space-top">
+    <div class="col-lg-12">
+      <h2>Question {{currentQuestionIndex + 1}} of 5</h2>
+      <hr class="col-lg-8" color="black">
+
+      <app-question [question]="currentQuestion" (isTheAnswerCorrect)="receiveAnswer($event)"></app-question>
+    </div>
+
+  </div>
+</div>
